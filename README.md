@@ -1,1 +1,1 @@
-#한국프로야구 시뮬레이션
+#baseball simulation
